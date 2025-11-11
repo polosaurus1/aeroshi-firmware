@@ -1,0 +1,10 @@
+﻿{
+    "version":  "v1.0.1",
+    "binaries":  [
+                     {
+                         "device_id":  "grange72-lounge",
+                         "path":  "/v1.0.1/grange72-lounge/firmware.bin",
+                         "sha256":  "aaf8cc23e34f57dc299c17ffb47aea099b3c43349a234ea7aca51c2f1a7a2167"
+                     }
+                 ]
+}
