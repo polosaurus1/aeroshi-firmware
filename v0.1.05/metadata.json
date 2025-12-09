@@ -1,0 +1,8 @@
+{
+  "version": "v0.1.05",
+  "sha256": "213103d63287a2ad2939106f25a838befda5d45096b7b7a12f55bd023b9afb55",
+  "md5": "3a79b6f9e20c99e5fff05ee62be9de71",
+  "size_bytes": 1181952,
+  "built_at": "2025-12-09T16:12:55.089973+00:00",
+  "source_template": "esphome\\templates\\aeroshi-nose-v1.yaml"
+}
